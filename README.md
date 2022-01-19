@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realHamid
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me 1122hamidjan@gmail.com
 
 <!---
